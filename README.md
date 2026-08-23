@@ -1,4 +1,4 @@
-🧩 Maze Generator & Solver
+ Maze Generator & Solver
 
 An interactive Python-based Maze Generator and Solver that allows users to generate random mazes and solve them using different pathfinding algorithms.
 
@@ -8,10 +8,8 @@ The application is developed using Python and Streamlit and provides a visual wa
 📂 GitHub Repository
 
 https://github.com/Pokkuluri-Sruthi/MazeGeneratorSolver
+https://mazegeneratorsolver-unmcfmkpjlcfsx49xp7mxr.streamlit.app/
 
-🌐 Live Demo
-
-The live demo link will be added after deploying the application on Streamlit Community Cloud.
 
 📌 Project Overview
 
@@ -29,13 +27,13 @@ Compare different algorithms.
 
 The project combines Data Structures, Algorithms, Graph Traversal, Shortest Path Algorithms, and Web Application Development.
 
-✨ Features
-🧱 Maze Generation
+ Features
+ Maze Generation
 Random maze generation.
 Customizable number of rows and columns.
 Visual representation of the generated maze.
 Ability to generate a new maze at any time.
-🧠 Multiple Solving Algorithms
+Multiple Solving Algorithms
 
 The application supports:
 
@@ -43,7 +41,7 @@ Breadth-First Search (BFS)
 Depth-First Search (DFS)
 Dijkstra's Algorithm
 A* Search Algorithm
-🎨 Interactive Visualization
+ Interactive Visualization
 
 The application visually displays:
 
@@ -52,7 +50,7 @@ Start position.
 Goal position.
 Visited cells.
 Final solution path.
-⚡ Interactive Controls
+ Interactive Controls
 
 Users can:
 
@@ -61,7 +59,7 @@ Select an algorithm.
 Solve the maze.
 Reset the application.
 Adjust maze parameters.
-🧠 Algorithms Used
+Algorithms Used
 1. Breadth-First Search — BFS
 
 BFS explores the maze level by level using a queue.
@@ -122,17 +120,11 @@ f(n) = estimated total cost.
 Advantages
 Efficient pathfinding.
 Uses heuristic information.
-Can explore fewer nodes than uninformed algorithms.
-📊 Algorithm Comparison
-Algorithm	Shortest Path	Heuristic	Search Type
-BFS	✅ Yes*	❌ No	Uninformed
-DFS	❌ Not guaranteed	❌ No	Uninformed
-Dijkstra	✅ Yes	❌ No	Cost-based
-A*	✅ Yes*	✅ Yes	Informed
 
-* For an unweighted maze with uniform movement cost.
 
-🛠️ Technologies Used
+
+
+ Technologies Used
 Python 3
 Streamlit
 NumPy
