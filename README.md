@@ -8,6 +8,8 @@ The application is developed using Python and Streamlit and provides a visual wa
 📂 GitHub Repository
 
 https://github.com/Pokkuluri-Sruthi/MazeGeneratorSolver
+
+
 https://mazegeneratorsolver-unmcfmkpjlcfsx49xp7mxr.streamlit.app/
 
 
